@@ -23,7 +23,8 @@ body {
 
 canvas {
     border: 1px solid #ccc;
-    width: 200px; /* Adjust width as needed */
+    width: 100%;
+    margin-bottom: 20px;
     height: auto;
 }
 
